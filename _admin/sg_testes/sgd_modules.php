@@ -13,6 +13,7 @@
 	 * @param int $userID
 	 * @param connection $bd
 	 */
+	 //mostra os documentos pendentes
 	function showDocsPend($userID){
 		global $conf;
 		
